@@ -15,10 +15,9 @@ var someone = {
 
 console.log(someone)
 
-// Primitive value is a string, number, boolean, null
-// Primitive values get passed by value. Non primitive values get passed by reference
+// Primitive data types: string, number, boolean, null, undefined. They are immutable
+// Primitive data types get passed by value. Non primitive values get passed by reference
 
 
-/** 
- * Grasping by value and by reference
- */
+// Primitive and Non primitive values do not behave the same
+
